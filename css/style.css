@@ -60,9 +60,10 @@ header{
 section{
     border: ridge 5px;
     border-radius: 18%;
-    width: 95%;
+    width: 75%;
     padding: 15px;
     background-color: #b3fc2df8;
+    position: relative;
 }
 
 p{
@@ -80,6 +81,11 @@ p{
 span{
     text-transform: uppercase;
     color: #a50aaac0;
+}
+
+aside{
+    width: 20%;
+    position: relative;
 }
 
 aside ul{
