@@ -81,3 +81,16 @@ span{
     text-transform: uppercase;
     color: #a50aaac0;
 }
+
+aside ul{
+    list-style-type: square;
+}
+
+#lower{
+    list-style-type: lower-roman;
+}
+
+#decimal{
+    list-style-type: decimal-leading-zero;
+    padding-left: 2em;
+}
