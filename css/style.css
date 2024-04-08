@@ -85,7 +85,9 @@ span{
 
 aside{
     width: 20%;
-    position: relative;
+    position: relative right;
+    border: solid 3px;
+    border-radius: 8px;
 }
 
 aside ul{
@@ -99,4 +101,8 @@ aside ul{
 #decimal{
     list-style-type: decimal-leading-zero;
     padding-left: 2em;
+}
+
+#icono{
+    list-style-image: url(img/seo.png);
 }
