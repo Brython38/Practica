@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-image: url(../img/seo.png);
+}
+
 nav{
     text-align: justify;
     display: block;
